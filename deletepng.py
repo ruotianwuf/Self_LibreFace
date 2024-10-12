@@ -12,3 +12,8 @@ for filename in os.listdir("img_align_celeba"):
     if filename.endswith('.png'):
         os.remove(os.path.join("img_align_celeba", filename))
         print(f"Deleted PNG file: {filename}")
+
+for filename in os.listdir("data"):
+    if filename.endswith('.json'):
+        os.remove(os.path.join("data", filename))
+        print(f"Deleted JSON file: {filename}")

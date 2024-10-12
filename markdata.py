@@ -4,7 +4,7 @@ import json
 import os
 
 # Directory containing images
-image_directory = 'img_align_celeba'
+image_directory = 'D:\\Genetic Programming\\LibreFace\\img_align_celeba'
 output_directory = 'data'
 
 # Create output directory if it doesn't exist

@@ -1,5 +1,7 @@
 conda create -n libreface_env python=3.8
+
 conda activate libreface_env
+
 pip install --upgrade libreface
 
 # CUDA 11.8 一定要下载！！！！

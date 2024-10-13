@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="libreface_env" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="libreface_env" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="libreface" project-jdk-type="Python SDK" />
 </project>
